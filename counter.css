@@ -1,0 +1,45 @@
+   body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.counter-container {
+  text-align: center;
+}
+
+.counter {
+  display: inline-block;
+  
+ 
+  margin-top: 0px;
+}
+
+.counter-name {
+  color: green;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.count-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-left: 5px;
+}
+
+#count {
+  font-size: 44px;
+}
+
+
+ 
